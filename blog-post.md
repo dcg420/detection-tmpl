@@ -56,4 +56,4 @@ The ADS framework helped us start the journey. It taught us to document. Now, it
 
 This new template provides the framework to do just that. It pushes us to build more resilient, context-rich, and automated defenses that are truly painful for our adversaries to bypass. It transforms detection from an art into a science.
 
-We invite you to explore the template on [**GitHub at th3r3d/bm-template**](https://www.google.com/search?q=https://github.com/th3r3d/bm-template), use it, critique it, and help us build the next generation of detection engineering.
+We invite you to explore the template on [**GitHub at DCG420/detection-tmpl**](https://github.com/dcg420/detection-tmpl), use it, critique it, and help us build the next generation of detection engineering.
